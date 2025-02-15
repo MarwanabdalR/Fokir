@@ -1,28 +1,27 @@
-Main Concept:
-HTML5
-1) DIV
-2) a
-3) img
-4) link
-5) li
-6) p
-7) h
-8) span
-9) strong
-10) i
+Getting Started
+To view and explore the Fokir project:
 
-CSS
-1) background
-2) margin - padding
-3) float
-4) before - after
-5) box-sizing
-6) hover
-7) transform
-8) font-family
-9) keyframs
-10) z-index
-11) display
-12) border
-13) opacity
-14) *RESPONSIVE*
+Clone the Repository:
+bash
+Copy
+Edit
+git clone https://github.com/MarwanabdalR/Fokir.git
+Navigate to the Project Directory:
+bash
+Copy
+Edit
+cd Fokir
+Open index.html in Your Browser to view the project.
+Project Structure
+index.html: The main HTML file.
+css/: Directory containing CSS stylesheets.
+img/: Folder with image assets used in the project.
+webfonts/: Contains web font files.
+Contributing
+Contributions are welcome! If you'd like to enhance the project or fix any issues:
+
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Commit your changes (git commit -m 'Add new feature').
+Push to the branch (git push origin feature-branch).
+Open a Pull Request.
